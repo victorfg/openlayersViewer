@@ -5,7 +5,7 @@ openlayersViewer is a viewer map application.
 ## Running the prototype
 
 * `git clone` this repo
-* `cd kokoroMusic/openlayersViewer` and `npm install`
+* `cd openlayersViewer` and `npm install`
 * run `npm start`
 * open browser on http://localhost:1234/
 
