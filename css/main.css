@@ -5,6 +5,7 @@ body{
     margin: 0;
     padding: 0;
     font-family: 'Roboto', serif;
+    overflow: hidden;
 }
 .grid-container{
     display: grid;
@@ -80,6 +81,12 @@ body{
     margin-top: 10px;
     margin-bottom: 10px;
     border-bottom: 1px solid #808080;
+}
+.title{
+    text-align: center;
+    font-size: 24px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 /* End Main Classes */
